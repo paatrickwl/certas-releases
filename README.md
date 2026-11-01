@@ -1,6 +1,6 @@
 # Certas — unduhan
 
-Peta lapangan offline untuk tambang: buka GeoPDF (Avenza, Global Mapper, ArcGIS, QGIS, Resilire), GPS terkalibrasi, markup dan foto, import DXF, ekspor DXF/KMZ/CSV/GeoPackage.
+Peta lapangan offline untuk tambang: buka GeoPDF dari Global Mapper, ArcGIS, QGIS, Resilire dan aplikasi peta lain, GPS terkalibrasi, markup dan foto, import DXF, ekspor DXF/KMZ/CSV/GeoPackage.
 
 **Unduh versi terbaru:** https://certas.paatrickwl.workers.dev/download
 
